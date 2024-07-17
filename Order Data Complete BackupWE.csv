@@ -1,0 +1,387 @@
+Order ID,Order Date,CustomerName,State,Region,DoW,Sale Price,Cost per Item,PaymentMode,Category,Sub-category,Quantity,Profit,Profitability
+B-25756,2023-08-20,Ward,California,WE,Sunday,204.00,-24.00,Credit Card,Furniture,Bookcases,3,684.00,Low
+B-25756,2023-08-20,Ward,California,WE,Sunday,29.00,13.25,Credit Card,Clothing,Leggings,4,63.00,Low
+B-25756,2023-08-20,Ward,California,WE,Sunday,465.00,124.50,Eft,Electronics,Phones,4,1362.00,Avg
+B-25756,2023-08-20,Ward,California,WE,Sunday,643.00,344.00,Debit Card,Electronics,Printers,2,598.00,Low
+B-25756,2023-08-20,Ward,California,WE,Sunday,729.00,244.20,Eft,Furniture,Bookcases,5,2424.00,High
+B-25884,2023-11-28,Rhodes,California,WE,Tuesday,24.00,5.50,Credit Card,Clothing,Hat,4,74.00,Low
+B-25778,2023-09-11,Campbell,California,WE,Monday,109.00,19.17,Credit Card,Clothing,Dress,6,538.98,Low
+B-25778,2023-09-11,Campbell,California,WE,Monday,1506.00,295.33,Cod,Electronics,Printers,6,7264.02,High
+B-25778,2023-09-11,Campbell,California,WE,Monday,724.00,292.75,Eft,Electronics,Electronic Games,4,1725.00,Avg
+B-25778,2023-09-11,Campbell,California,WE,Monday,933.00,153.40,Cod,Clothing,Dress,5,3898.00,High
+B-26091,2023-03-27,Sanchez,Washington,WE,Monday,158.00,29.67,Eft,Clothing,Scarf,3,384.99,Low
+B-26091,2023-03-27,Sanchez,Washington,WE,Monday,29.00,4.75,Eft,Clothing,Hat,4,97.00,Low
+B-26091,2023-03-27,Sanchez,Washington,WE,Monday,59.00,12.25,Credit Card,Clothing,Leggings,4,187.00,Low
+B-25834,2023-10-29,Ford,Washington,WE,Sunday,16.00,11.00,Eft,Clothing,Scarf,1,5.00,Low
+B-25644,2023-04-30,Gomez,California,WE,Sunday,76.00,21.00,Credit Card,Furniture,Furnishings,8,440.00,Low
+B-25923,2023-12-27,Weaver,California,WE,Wednesday,226.00,56.00,Credit Card,Electronics,Accessories,3,510.00,Low
+B-25923,2023-12-27,Weaver,California,WE,Wednesday,253.00,264.00,Debit Card,Clothing,Pants,1,-11.00,Loss
+B-25923,2023-12-27,Weaver,California,WE,Wednesday,3873.00,794.00,Cod,Electronics,Phones,6,18474.00,High
+B-25923,2023-12-27,Weaver,California,WE,Wednesday,484.00,152.00,Debit Card,Electronics,Printers,3,996.00,Low
+B-25805,2023-10-05,Martin,California,WE,Thursday,112.00,48.50,Credit Card,Furniture,Chairs,2,127.00,Low
+B-26028,2023-02-20,Sanchez,Washington,WE,Monday,115.00,115.00,Debit Card,Electronics,Accessories,1,0.00,Loss
+B-26028,2023-02-20,Sanchez,Washington,WE,Monday,1272.00,362.50,Credit Card,Electronics,Phones,2,1819.00,Avg
+B-26028,2023-02-20,Sanchez,Washington,WE,Monday,77.00,20.50,Eft,Clothing,Shirt,2,113.00,Low
+B-25931,2023-01-04,Guerrero,California,WE,Wednesday,73.00,36.33,Eft,Furniture,Chairs,3,110.01,Low
+B-25726,2023-07-21,Bradley,California,WE,Friday,490.00,77.25,Eft,Furniture,Bookcases,8,3302.00,High
+B-25837,2023-10-29,Austin,California,WE,Sunday,263.00,42.60,Credit Card,Clothing,Scarf,5,1102.00,Avg
+B-25662,2023-05-17,Simmons,California,WE,Wednesday,24.00,13.00,Credit Card,Clothing,T - Shirt,2,22.00,Low
+B-25662,2023-05-17,Simmons,California,WE,Wednesday,385.00,42.00,Eft,Furniture,Furnishings,11,3773.00,High
+B-25662,2023-05-17,Simmons,California,WE,Wednesday,86.00,107.00,Eft,Electronics,Electronic Games,1,-21.00,Loss
+B-25816,2023-10-12,Lane,Washington,WE,Thursday,391.00,34.75,Credit Card,Clothing,Scarf,8,2850.00,High
+B-25656,2023-05-11,Jones,California,WE,Thursday,101.00,9.22,Credit Card,Clothing,Skirt,9,826.02,Low
+B-25656,2023-05-11,Jones,California,WE,Thursday,13.00,4.67,Credit Card,Clothing,Hat,3,24.99,Low
+B-25656,2023-05-11,Jones,California,WE,Thursday,1389.00,101.29,Credit Card,Clothing,Dress,7,9013.97,High
+B-25656,2023-05-11,Jones,California,WE,Thursday,24.00,12.50,Credit Card,Clothing,Hat,2,23.00,Low
+B-25656,2023-05-11,Jones,California,WE,Thursday,30.00,7.00,Eft,Clothing,Scarf,5,115.00,Low
+B-25656,2023-05-11,Jones,California,WE,Thursday,406.00,140.00,Credit Card,Clothing,Dress,2,532.00,Low
+B-25656,2023-05-11,Jones,California,WE,Thursday,534.00,178.00,Debit Card,Clothing,Dress,3,1068.00,Avg
+B-25656,2023-05-11,Jones,California,WE,Thursday,56.00,19.00,Debit Card,Clothing,Hat,2,74.00,Low
+B-25656,2023-05-11,Jones,California,WE,Thursday,6.00,3.00,Credit Card,Clothing,Hat,1,3.00,Low
+B-25656,2023-05-11,Jones,California,WE,Thursday,61.00,42.00,Credit Card,Clothing,Dress,2,38.00,Low
+B-25656,2023-05-11,Jones,California,WE,Thursday,624.00,293.50,Debit Card,Electronics,Electronic Games,2,661.00,Low
+B-25656,2023-05-11,Jones,California,WE,Thursday,651.00,96.40,Credit Card,Electronics,Printers,5,2773.00,High
+B-25948,2023-01-13,Carlson,California,WE,Friday,152.00,43.00,Credit Card,Furniture,Furnishings,3,327.00,Low
+B-25689,2023-06-14,Gordon,California,WE,Wednesday,149.00,4.33,Eft,Clothing,Scarf,3,434.01,Low
+B-25689,2023-06-14,Gordon,California,WE,Wednesday,469.00,309.33,Credit Card,Electronics,Electronic Games,3,479.01,Low
+B-25689,2023-06-14,Gordon,California,WE,Wednesday,97.00,40.00,Cod,Clothing,Scarf,2,114.00,Low
+B-26045,2023-03-03,Richardson,Arizona,WE,Friday,179.00,102.00,Eft,Clothing,Dress,1,77.00,Low
+B-26045,2023-03-03,Richardson,Arizona,WE,Friday,27.00,22.00,Eft,Clothing,Scarf,1,5.00,Low
+B-26045,2023-03-03,Richardson,Arizona,WE,Friday,302.00,37.83,Debit Card,Furniture,Furnishings,6,1585.02,Avg
+B-26045,2023-03-03,Richardson,Arizona,WE,Friday,376.00,53.71,Cod,Clothing,Scarf,7,2256.03,High
+B-25944,2023-01-10,Becker,California,WE,Tuesday,169.00,43.67,Debit Card,Clothing,Dress,3,375.99,Low
+B-25776,2023-09-09,Vargas,California,WE,Saturday,47.00,33.50,Debit Card,Clothing,Shirt,2,27.00,Low
+B-25854,2023-11-08,Johnson,California,WE,Wednesday,149.00,16.83,Credit Card,Clothing,Scarf,6,793.02,Low
+B-25854,2023-11-08,Johnson,California,WE,Wednesday,342.00,70.86,Debit Card,Furniture,Furnishings,7,1897.98,Avg
+B-25854,2023-11-08,Johnson,California,WE,Wednesday,381.00,118.50,Credit Card,Clothing,Dress,2,525.00,Low
+B-25854,2023-11-08,Johnson,California,WE,Wednesday,40.00,8.00,Credit Card,Clothing,Hat,3,96.00,Low
+B-25854,2023-11-08,Johnson,California,WE,Wednesday,436.00,33.89,Eft,Clothing,Hat,9,3618.99,High
+B-25854,2023-11-08,Johnson,California,WE,Wednesday,53.00,18.33,Debit Card,Clothing,Dress,3,104.01,Low
+B-25854,2023-11-08,Johnson,California,WE,Wednesday,76.00,19.00,Credit Card,Clothing,Hat,3,171.00,Low
+B-25854,2023-11-08,Johnson,California,WE,Wednesday,88.00,18.00,Cod,Clothing,Scarf,4,280.00,Low
+B-25872,2023-11-22,Morales,California,WE,Wednesday,57.00,15.00,Credit Card,Clothing,Shirt,2,84.00,Low
+B-25691,2023-06-16,Griffin,California,WE,Friday,17.00,8.67,Credit Card,Clothing,Scarf,3,24.99,Low
+B-25691,2023-06-16,Griffin,California,WE,Friday,714.00,164.50,Credit Card,Clothing,Dress,4,2198.00,High
+B-25691,2023-06-16,Griffin,California,WE,Friday,75.00,33.33,Eft,Clothing,Scarf,3,125.01,Low
+B-25946,2023-01-12,Morales,Washington,WE,Thursday,146.00,69.50,Debit Card,Electronics,Phones,2,153.00,Low
+B-25751,2023-08-14,Obrien,California,WE,Monday,10.00,18.00,Eft,Clothing,Shirt,1,-8.00,Loss
+B-25751,2023-08-14,Obrien,California,WE,Monday,106.00,53.00,Eft,Electronics,Phones,2,106.00,Low
+B-25751,2023-08-14,Obrien,California,WE,Monday,14.00,8.50,Credit Card,Clothing,Leggings,2,11.00,Low
+B-25751,2023-08-14,Obrien,California,WE,Monday,221.00,118.00,Credit Card,Electronics,Electronic Games,2,206.00,Low
+B-25751,2023-08-14,Obrien,California,WE,Monday,32.00,8.33,Credit Card,Clothing,Hat,3,71.01,Low
+B-25751,2023-08-14,Obrien,California,WE,Monday,43.00,24.00,Credit Card,Clothing,Dress,2,38.00,Low
+B-25751,2023-08-14,Obrien,California,WE,Monday,43.00,7.33,Credit Card,Clothing,Shirt,3,107.01,Low
+B-25751,2023-08-14,Obrien,California,WE,Monday,534.00,264.50,Debit Card,Electronics,Electronic Games,2,539.00,Low
+B-25751,2023-08-14,Obrien,California,WE,Monday,65.00,11.50,Credit Card,Clothing,Hat,6,321.00,Low
+B-25751,2023-08-14,Obrien,California,WE,Monday,68.00,62.00,Credit Card,Electronics,Phones,2,12.00,Low
+B-25870,2023-11-20,Reyes,Washington,WE,Monday,10.00,6.00,Eft,Clothing,Shirt,1,4.00,Low
+B-25870,2023-11-20,Reyes,Washington,WE,Monday,473.00,65.11,Eft,Clothing,Hat,9,3671.01,High
+B-25870,2023-11-20,Reyes,Washington,WE,Monday,57.00,16.67,Credit Card,Furniture,Furnishings,3,120.99,Low
+B-25870,2023-11-20,Reyes,Washington,WE,Monday,845.00,108.71,Cod,Clothing,Dress,7,5154.03,High
+B-25744,2023-08-08,Boyd,Washington,WE,Tuesday,373.00,19.83,Eft,Electronics,Printers,6,2119.02,High
+B-25740,2023-08-03,Walters,California,WE,Thursday,40.00,25.67,Credit Card,Clothing,Scarf,3,42.99,Low
+B-25740,2023-08-03,Walters,California,WE,Thursday,58.00,33.00,Credit Card,Clothing,Dress,2,50.00,Low
+B-25740,2023-08-03,Walters,California,WE,Thursday,7.00,3.50,Credit Card,Clothing,Skirt,2,7.00,Low
+B-25836,2023-10-29,Freeman,California,WE,Sunday,1298.00,137.00,Eft,Electronics,Printers,9,10449.00,High
+B-25779,2023-09-12,Banks,California,WE,Tuesday,1361.00,127.00,Credit Card,Furniture,Tables,3,3702.00,High
+B-25856,2023-11-10,Carter,California,WE,Friday,10.00,4.00,Credit Card,Clothing,Skirt,2,12.00,Low
+B-25856,2023-11-10,Carter,California,WE,Friday,257.00,127.00,Credit Card,Clothing,Dress,2,260.00,Low
+B-25856,2023-11-10,Carter,California,WE,Friday,48.00,42.00,Credit Card,Clothing,Dress,1,6.00,Low
+B-25856,2023-11-10,Carter,California,WE,Friday,689.00,119.80,Credit Card,Clothing,Dress,5,2846.00,High
+B-25856,2023-11-10,Carter,California,WE,Friday,74.00,15.00,Eft,Clothing,Scarf,3,177.00,Low
+B-26046,2023-03-04,Wood,California,WE,Saturday,32.00,3.63,Credit Card,Clothing,Hat,8,226.96,Low
+B-25964,2023-01-20,Salazar,California,WE,Friday,1270.00,65.82,Eft,Electronics,Electronic Games,11,13245.98,High
+B-25964,2023-01-20,Salazar,California,WE,Friday,199.00,49.75,Eft,Clothing,Scarf,4,597.00,Low
+B-25964,2023-01-20,Salazar,California,WE,Friday,346.00,79.33,Credit Card,Furniture,Chairs,3,800.01,Low
+B-25964,2023-01-20,Salazar,California,WE,Friday,89.00,16.60,Credit Card,Clothing,Dress,5,362.00,Low
+B-25858,2023-11-13,Barker,California,WE,Monday,219.00,219.00,Credit Card,Clothing,Dress,1,0.00,Loss
+B-25858,2023-11-13,Barker,California,WE,Monday,22.00,4.67,Credit Card,Clothing,Hat,3,51.99,Low
+B-25858,2023-11-13,Barker,California,WE,Monday,223.00,98.00,Credit Card,Furniture,Bookcases,2,250.00,Low
+B-25858,2023-11-13,Barker,California,WE,Monday,245.00,107.50,Credit Card,Clothing,Dress,2,275.00,Low
+B-25858,2023-11-13,Barker,California,WE,Monday,2457.00,162.91,Eft,Electronics,Electronic Games,11,25234.99,High
+B-25858,2023-11-13,Barker,California,WE,Monday,27.00,11.00,Credit Card,Clothing,Skirt,2,32.00,Low
+B-25858,2023-11-13,Barker,California,WE,Monday,29.00,4.50,Credit Card,Clothing,Skirt,4,98.00,Low
+B-25858,2023-11-13,Barker,California,WE,Monday,294.00,26.43,Eft,Electronics,Accessories,7,1872.99,Avg
+B-25858,2023-11-13,Barker,California,WE,Monday,82.00,34.50,Credit Card,Clothing,Shirt,2,95.00,Low
+B-25672,2023-05-28,West,Washington,WE,Sunday,27.00,42.00,Eft,Clothing,Scarf,1,-15.00,Loss
+B-25978,2023-01-27,Gilbert,California,WE,Friday,1063.00,309.50,Eft,Electronics,Electronic Games,4,3014.00,High
+B-25978,2023-01-27,Gilbert,California,WE,Friday,341.00,25.86,Debit Card,Clothing,Scarf,7,2205.98,High
+B-25852,2023-11-07,Wade,Washington,WE,Tuesday,105.00,27.60,Credit Card,Clothing,Shirt,5,387.00,Low
+B-25852,2023-11-07,Wade,Washington,WE,Tuesday,24.00,11.50,Credit Card,Clothing,Hat,2,25.00,Low
+B-25852,2023-11-07,Wade,Washington,WE,Tuesday,320.00,176.00,Debit Card,Electronics,Printers,1,144.00,Low
+B-25852,2023-11-07,Wade,Washington,WE,Tuesday,45.00,8.25,Credit Card,Clothing,Hat,4,147.00,Low
+B-25852,2023-11-07,Wade,Washington,WE,Tuesday,50.00,34.00,Eft,Clothing,Scarf,1,16.00,Low
+B-25852,2023-11-07,Wade,Washington,WE,Tuesday,869.00,200.50,Credit Card,Furniture,Tables,4,2674.00,High
+B-25852,2023-11-07,Wade,Washington,WE,Tuesday,97.00,40.00,Cod,Clothing,Scarf,2,114.00,Low
+B-25813,2023-10-10,Pierce,California,WE,Tuesday,911.00,101.29,Credit Card,Furniture,Chairs,7,5667.97,High
+B-25620,2023-04-20,Adams,California,WE,Thursday,193.00,147.00,Cod,Electronics,Printers,1,46.00,Low
+B-25956,2023-01-17,Smith,California,WE,Tuesday,140.00,56.00,Credit Card,Electronics,Phones,2,168.00,Low
+B-25956,2023-01-17,Smith,California,WE,Tuesday,33.00,7.67,Credit Card,Clothing,Hat,3,75.99,Low
+B-25956,2023-01-17,Smith,California,WE,Tuesday,474.00,104.50,Debit Card,Electronics,Phones,4,1478.00,Avg
+B-25956,2023-01-17,Smith,California,WE,Tuesday,59.00,24.50,Credit Card,Clothing,Hat,2,69.00,Low
+B-25956,2023-01-17,Smith,California,WE,Tuesday,89.00,31.50,Credit Card,Clothing,Shirt,4,230.00,Low
+B-25963,2023-01-19,Fuller,California,WE,Thursday,53.00,15.00,Eft,Furniture,Furnishings,3,114.00,Low
+B-25842,2023-11-02,Davis,California,WE,Thursday,1543.00,146.63,Cod,Electronics,Printers,8,11170.96,High
+B-26054,2023-03-10,Gomez,California,WE,Friday,138.00,25.40,Eft,Clothing,Scarf,5,563.00,Low
+B-26054,2023-03-10,Gomez,California,WE,Friday,139.00,34.33,Credit Card,Clothing,Scarf,3,314.01,Low
+B-26054,2023-03-10,Gomez,California,WE,Friday,139.00,39.33,Credit Card,Electronics,Accessories,3,299.01,Low
+B-26054,2023-03-10,Gomez,California,WE,Friday,156.00,44.33,Credit Card,Clothing,Scarf,3,335.01,Low
+B-26054,2023-03-10,Gomez,California,WE,Friday,246.00,29.60,Credit Card,Clothing,Hat,5,1082.00,Avg
+B-26054,2023-03-10,Gomez,California,WE,Friday,559.00,366.50,Debit Card,Electronics,Electronic Games,2,385.00,Low
+B-26054,2023-03-10,Gomez,California,WE,Friday,88.00,34.00,Credit Card,Clothing,Dress,2,108.00,Low
+B-26054,2023-03-10,Gomez,California,WE,Friday,88.00,34.50,Debit Card,Clothing,Shirt,2,107.00,Low
+B-26030,2023-02-21,Adams,California,WE,Tuesday,11.00,6.00,Credit Card,Clothing,Skirt,1,5.00,Low
+B-26030,2023-02-21,Adams,California,WE,Tuesday,221.00,46.50,Debit Card,Electronics,Accessories,4,698.00,Low
+B-26030,2023-02-21,Adams,California,WE,Tuesday,291.00,99.00,Credit Card,Electronics,Printers,2,384.00,Low
+B-26030,2023-02-21,Adams,California,WE,Tuesday,50.00,5.00,Credit Card,Clothing,Scarf,5,225.00,Low
+B-26030,2023-02-21,Adams,California,WE,Tuesday,89.00,17.67,Eft,Clothing,Shirt,3,213.99,Low
+B-26030,2023-02-21,Adams,California,WE,Tuesday,92.00,14.50,Cod,Clothing,Hat,6,465.00,Low
+B-25743,2023-08-07,Evans,Arizona,WE,Monday,143.00,53.40,Eft,Clothing,Dress,5,448.00,Low
+B-25743,2023-08-07,Evans,Arizona,WE,Monday,503.00,279.50,Credit Card,Clothing,Pants,2,447.00,Low
+B-25743,2023-08-07,Evans,Arizona,WE,Monday,56.00,14.00,Credit Card,Clothing,Hat,4,168.00,Low
+B-25743,2023-08-07,Evans,Arizona,WE,Monday,74.00,41.67,Eft,Clothing,Scarf,3,96.99,Low
+B-25743,2023-08-07,Evans,Arizona,WE,Monday,99.00,104.00,Eft,Clothing,Dress,1,-5.00,Loss
+B-25826,2023-10-22,Maldonado,California,WE,Sunday,637.00,188.00,Credit Card,Electronics,Printers,2,898.00,Low
+B-25815,2023-10-10,Clark,Arizona,WE,Tuesday,35.00,10.50,Cod,Clothing,Scarf,2,49.00,Low
+B-25636,2023-04-26,Wood,California,WE,Wednesday,637.00,104.80,Eft,Clothing,Dress,5,2661.00,High
+B-26093,2023-03-27,Adams,California,WE,Monday,148.00,41.00,Debit Card,Clothing,Dress,3,321.00,Low
+B-26093,2023-03-27,Adams,California,WE,Monday,2847.00,266.88,Cod,Electronics,Printers,8,20640.96,High
+B-26093,2023-03-27,Adams,California,WE,Monday,33.00,34.00,Cod,Clothing,Dress,1,-1.00,Loss
+B-26093,2023-03-27,Adams,California,WE,Monday,49.00,11.00,Credit Card,Clothing,Hat,4,152.00,Low
+B-26093,2023-03-27,Adams,California,WE,Monday,492.00,152.50,Eft,Electronics,Accessories,2,679.00,Low
+B-26093,2023-03-27,Adams,California,WE,Monday,81.00,24.40,Eft,Clothing,Leggings,5,283.00,Low
+B-26093,2023-03-27,Adams,California,WE,Monday,852.00,160.20,Cod,Furniture,Bookcases,5,3459.00,High
+B-26064,2023-03-16,Harrison,California,WE,Thursday,122.00,14.00,Cod,Clothing,T - Shirt,6,648.00,Low
+B-26064,2023-03-16,Harrison,California,WE,Thursday,179.00,89.50,Debit Card,Clothing,Dress,2,179.00,Low
+B-26064,2023-03-16,Harrison,California,WE,Thursday,61.00,14.50,Credit Card,Clothing,Hat,4,186.00,Low
+B-26064,2023-03-16,Harrison,California,WE,Thursday,75.00,14.60,Debit Card,Clothing,Leggings,5,302.00,Low
+B-26066,2023-03-16,Jones,California,WE,Thursday,86.00,32.00,Debit Card,Clothing,Dress,2,108.00,Low
+B-26072,2023-03-20,Simmons,California,WE,Monday,313.00,89.67,Credit Card,Electronics,Electronic Games,3,669.99,Low
+B-25718,2023-07-12,Moore,California,WE,Wednesday,371.00,256.00,Debit Card,Furniture,Bookcases,1,115.00,Low
+B-25718,2023-07-12,Moore,California,WE,Wednesday,460.00,143.00,Debit Card,Furniture,Bookcases,3,951.00,Low
+B-25935,2023-01-04,Lambert,Arizona,WE,Wednesday,150.00,39.33,Credit Card,Clothing,Hat,3,332.01,Low
+B-25935,2023-01-04,Lambert,Arizona,WE,Wednesday,162.00,47.33,Eft,Furniture,Chairs,3,344.01,Low
+B-25935,2023-01-04,Lambert,Arizona,WE,Wednesday,1657.00,299.25,Cod,Furniture,Chairs,4,5431.00,High
+B-25638,2023-04-26,Bennett,California,WE,Wednesday,154.00,38.33,Credit Card,Clothing,Hat,3,347.01,Low
+B-25638,2023-04-26,Bennett,California,WE,Wednesday,182.00,64.33,Cod,Furniture,Bookcases,3,353.01,Low
+B-25638,2023-04-26,Bennett,California,WE,Wednesday,816.00,304.00,Debit Card,Electronics,Printers,3,1536.00,Avg
+B-25638,2023-04-26,Bennett,California,WE,Wednesday,880.00,97.88,Debit Card,Furniture,Furnishings,8,6256.96,High
+B-25955,2023-01-16,Pena,California,WE,Monday,110.00,18.00,Debit Card,Clothing,Scarf,5,460.00,Low
+B-25955,2023-01-16,Pena,California,WE,Monday,1716.00,201.00,Credit Card,Electronics,Accessories,7,10605.00,High
+B-25955,2023-01-16,Pena,California,WE,Monday,200.00,37.40,Credit Card,Electronics,Phones,5,813.00,Low
+B-25955,2023-01-16,Pena,California,WE,Monday,2927.00,347.63,Eft,Furniture,Bookcases,8,20634.96,High
+B-25955,2023-01-16,Pena,California,WE,Monday,294.00,25.78,Eft,Clothing,T - Shirt,9,2413.98,High
+B-25955,2023-01-16,Pena,California,WE,Monday,39.00,18.50,Debit Card,Clothing,Dress,2,41.00,Low
+B-25955,2023-01-16,Pena,California,WE,Monday,45.00,9.25,Eft,Clothing,Skirt,4,143.00,Low
+B-25955,2023-01-16,Pena,California,WE,Monday,54.00,13.33,Eft,Clothing,T - Shirt,3,122.01,Low
+B-25955,2023-01-16,Pena,California,WE,Monday,954.00,286.33,Eft,Electronics,Printers,3,2003.01,High
+B-25746,2023-08-10,Ortiz,California,WE,Thursday,87.00,35.50,Eft,Clothing,Dress,2,103.00,Low
+B-25728,2023-07-22,Gibson,California,WE,Saturday,1055.00,197.75,Eft,Electronics,Printers,4,3429.00,High
+B-25728,2023-07-22,Gibson,California,WE,Saturday,322.00,108.75,Cod,Clothing,Dress,4,853.00,Low
+B-25728,2023-07-22,Gibson,California,WE,Saturday,771.00,597.50,Cod,Electronics,Phones,2,347.00,Low
+B-25817,2023-10-13,Garrett,California,WE,Friday,743.00,130.80,Eft,Electronics,Printers,5,3061.00,High
+B-25769,2023-09-02,Henderson,California,WE,Saturday,355.00,179.50,Debit Card,Clothing,Dress,2,351.00,Low
+B-26060,2023-03-13,Stewart,California,WE,Monday,382.00,104.67,Credit Card,Clothing,Dress,3,831.99,Low
+B-25832,2023-10-28,Payne,California,WE,Saturday,504.00,129.33,Credit Card,Furniture,Bookcases,3,1124.01,Avg
+B-26027,2023-02-20,Green,Arizona,WE,Monday,54.00,11.50,Credit Card,Clothing,T - Shirt,4,170.00,Low
+B-25792,2023-09-24,Williams,California,WE,Sunday,74.00,33.00,Credit Card,Clothing,Scarf,3,123.00,Low
+B-26012,2023-02-13,Gray,California,WE,Monday,199.00,95.50,Credit Card,Clothing,Dress,2,207.00,Low
+B-25941,2023-01-07,Peters,Arizona,WE,Saturday,177.00,34.00,Debit Card,Clothing,Shirt,4,572.00,Low
+B-25674,2023-05-28,Allen,California,WE,Sunday,17.00,5.80,Debit Card,Clothing,Skirt,5,56.00,Low
+B-25653,2023-05-08,Morris,Arizona,WE,Monday,115.00,90.00,Credit Card,Electronics,Accessories,1,25.00,Low
+B-25653,2023-05-08,Morris,Arizona,WE,Monday,1279.00,239.88,Eft,Electronics,Printers,8,8312.96,High
+B-25653,2023-05-08,Morris,Arizona,WE,Monday,1327.00,126.13,Eft,Furniture,Chairs,8,9606.96,High
+B-25653,2023-05-08,Morris,Arizona,WE,Monday,168.00,59.33,Eft,Electronics,Accessories,3,326.01,Low
+B-25653,2023-05-08,Morris,Arizona,WE,Monday,195.00,62.40,Credit Card,Electronics,Phones,5,663.00,Low
+B-25653,2023-05-08,Morris,Arizona,WE,Monday,227.00,15.63,Debit Card,Electronics,Accessories,8,1690.96,Avg
+B-25653,2023-05-08,Morris,Arizona,WE,Monday,28.00,15.50,Eft,Clothing,Dress,2,25.00,Low
+B-25653,2023-05-08,Morris,Arizona,WE,Monday,427.00,68.14,Credit Card,Electronics,Phones,7,2512.02,High
+B-25653,2023-05-08,Morris,Arizona,WE,Monday,668.00,233.00,Cod,Electronics,Printers,3,1305.00,Avg
+B-26048,2023-03-04,Bennett,California,WE,Saturday,1104.00,223.75,Eft,Clothing,Pants,4,3521.00,High
+B-26048,2023-03-04,Bennett,California,WE,Saturday,1461.00,251.80,Eft,Furniture,Tables,5,6046.00,High
+B-26048,2023-03-04,Bennett,California,WE,Saturday,163.00,41.00,Credit Card,Electronics,Accessories,2,244.00,Low
+B-26048,2023-03-04,Bennett,California,WE,Saturday,401.00,64.67,Cod,Furniture,Chairs,6,2017.98,High
+B-25635,2023-04-26,Richardson,Arizona,WE,Wednesday,23.00,10.50,Eft,Clothing,Skirt,2,25.00,Low
+B-25635,2023-04-26,Richardson,Arizona,WE,Wednesday,382.00,117.33,Cod,Clothing,Dress,3,794.01,Low
+B-25635,2023-04-26,Richardson,Arizona,WE,Wednesday,40.00,8.00,Debit Card,Clothing,Hat,3,96.00,Low
+B-25725,2023-07-20,Mcdonald,Arizona,WE,Thursday,144.00,37.75,Credit Card,Electronics,Electronic Games,4,425.00,Low
+B-25725,2023-07-20,Mcdonald,Arizona,WE,Thursday,23.00,4.00,Cod,Clothing,Hat,7,133.00,Low
+B-25725,2023-07-20,Mcdonald,Arizona,WE,Thursday,26.00,15.50,Eft,Clothing,Scarf,2,21.00,Low
+B-25749,2023-08-13,Thompson,California,WE,Sunday,1052.00,378.00,Eft,Furniture,Bookcases,3,2022.00,High
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,10.00,4.00,Credit Card,Clothing,Hat,2,12.00,Low
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,103.00,28.50,Eft,Clothing,Dress,2,149.00,Low
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,135.00,37.80,Credit Card,Clothing,Shirt,5,486.00,Low
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,237.00,21.11,Eft,Clothing,T - Shirt,9,1943.01,Avg
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,300.00,129.00,Credit Card,Electronics,Printers,2,342.00,Low
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,336.00,88.33,Credit Card,Furniture,Bookcases,3,743.01,Low
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,53.00,4.83,Eft,Clothing,Hat,6,289.02,Low
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,57.00,15.00,Credit Card,Clothing,T - Shirt,2,84.00,Low
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,62.00,20.33,Credit Card,Clothing,Dress,3,125.01,Low
+B-25851,2023-11-06,Berry,Arizona,WE,Monday,90.00,12.20,Credit Card,Clothing,T - Shirt,5,389.00,Low
+B-25823,2023-10-18,Miller,California,WE,Wednesday,103.00,26.50,Eft,Furniture,Furnishings,2,153.00,Low
+B-25823,2023-10-18,Miller,California,WE,Wednesday,104.00,51.00,Credit Card,Furniture,Furnishings,2,106.00,Low
+B-25823,2023-10-18,Miller,California,WE,Wednesday,2103.00,222.63,Eft,Electronics,Electronic Games,8,15042.96,High
+B-25823,2023-10-18,Miller,California,WE,Wednesday,59.00,53.00,Eft,Electronics,Accessories,1,6.00,Low
+B-25626,2023-04-23,Lee,California,WE,Sunday,1103.00,275.67,Eft,Furniture,Chairs,3,2481.99,High
+B-25626,2023-04-23,Lee,California,WE,Sunday,46.00,60.00,Credit Card,Electronics,Phones,1,-14.00,Loss
+B-26036,2023-02-23,Lee,California,WE,Thursday,341.00,42.43,Eft,Furniture,Furnishings,7,2089.99,High
+B-25896,2023-12-05,Evans,California,WE,Tuesday,103.00,33.50,Credit Card,Clothing,Hat,2,139.00,Low
+B-25896,2023-12-05,Evans,California,WE,Tuesday,190.00,15.25,Cod,Clothing,T - Shirt,8,1398.00,Avg
+B-25896,2023-12-05,Evans,California,WE,Tuesday,23.00,9.50,Credit Card,Clothing,Skirt,2,27.00,Low
+B-25896,2023-12-05,Evans,California,WE,Tuesday,287.00,58.83,Credit Card,Clothing,Shirt,6,1369.02,Avg
+B-25896,2023-12-05,Evans,California,WE,Tuesday,31.00,14.00,Eft,Clothing,Skirt,3,51.00,Low
+B-25896,2023-12-05,Evans,California,WE,Tuesday,42.00,17.50,Credit Card,Clothing,Shirt,2,49.00,Low
+B-25896,2023-12-05,Evans,California,WE,Tuesday,79.00,40.50,Eft,Furniture,Furnishings,2,77.00,Low
+B-25798,2023-10-01,Valdez,Washington,WE,Sunday,2830.00,370.08,Eft,Furniture,Bookcases,13,31978.96,High
+B-25798,2023-10-01,Valdez,Washington,WE,Sunday,379.00,158.00,Credit Card,Clothing,Dress,2,442.00,Low
+B-25798,2023-10-01,Valdez,Washington,WE,Sunday,38.00,17.00,Cod,Clothing,Scarf,3,63.00,Low
+B-25798,2023-10-01,Valdez,Washington,WE,Sunday,448.00,150.00,Credit Card,Electronics,Printers,2,596.00,Low
+B-25798,2023-10-01,Valdez,Washington,WE,Sunday,47.00,25.00,Credit Card,Clothing,Scarf,2,44.00,Low
+B-25798,2023-10-01,Valdez,Washington,WE,Sunday,61.00,27.75,Credit Card,Clothing,Hat,4,133.00,Low
+B-26075,2023-03-21,Gray,California,WE,Tuesday,34.00,11.00,Credit Card,Clothing,Scarf,2,46.00,Low
+B-25687,2023-06-11,Newman,California,WE,Sunday,14.00,3.75,Credit Card,Clothing,Shirt,4,41.00,Low
+B-25687,2023-06-11,Newman,California,WE,Sunday,17.00,11.00,Eft,Clothing,Scarf,1,6.00,Low
+B-25687,2023-06-11,Newman,California,WE,Sunday,357.00,109.00,Debit Card,Clothing,Dress,2,496.00,Low
+B-25687,2023-06-11,Newman,California,WE,Sunday,387.00,120.00,Eft,Clothing,Dress,5,1335.00,Avg
+B-25687,2023-06-11,Newman,California,WE,Sunday,51.00,10.00,Credit Card,Clothing,T - Shirt,3,123.00,Low
+B-25997,2023-02-04,Rodriguez,California,WE,Saturday,16.00,3.33,Credit Card,Clothing,Hat,3,38.01,Low
+B-25997,2023-02-04,Rodriguez,California,WE,Saturday,2292.00,309.29,Credit Card,Furniture,Bookcases,7,13878.97,High
+B-25997,2023-02-04,Rodriguez,California,WE,Saturday,231.00,66.00,Cod,Electronics,Electronic Games,2,330.00,Low
+B-25997,2023-02-04,Rodriguez,California,WE,Saturday,48.00,33.00,Credit Card,Clothing,Hat,1,15.00,Low
+B-25733,2023-07-28,Fox,California,WE,Friday,23.00,7.25,Credit Card,Clothing,Hat,4,63.00,Low
+B-25733,2023-07-28,Fox,California,WE,Friday,30.00,20.00,Credit Card,Clothing,Scarf,2,20.00,Low
+B-25733,2023-07-28,Fox,California,WE,Friday,43.00,12.29,Debit Card,Clothing,Scarf,7,214.97,Low
+B-25864,2023-11-15,Webb,California,WE,Wednesday,100.00,23.50,Credit Card,Clothing,Scarf,4,306.00,Low
+B-25864,2023-11-15,Webb,California,WE,Wednesday,17.00,12.00,Eft,Clothing,Hat,1,5.00,Low
+B-25864,2023-11-15,Webb,California,WE,Wednesday,22.00,7.00,Credit Card,Clothing,Leggings,2,30.00,Low
+B-25864,2023-11-15,Webb,California,WE,Wednesday,27.00,9.00,Credit Card,Clothing,Hat,2,36.00,Low
+B-25843,2023-11-03,Wheeler,California,WE,Friday,18.00,4.00,Eft,Clothing,Hat,3,42.00,Low
+B-25843,2023-11-03,Wheeler,California,WE,Friday,214.00,61.33,Credit Card,Electronics,Accessories,3,458.01,Low
+B-25843,2023-11-03,Wheeler,California,WE,Friday,255.00,36.20,Credit Card,Clothing,Hat,5,1094.00,Avg
+B-25843,2023-11-03,Wheeler,California,WE,Friday,45.00,22.50,Eft,Clothing,Scarf,2,45.00,Low
+B-25843,2023-11-03,Wheeler,California,WE,Friday,50.00,7.17,Credit Card,Clothing,Skirt,6,256.98,Low
+B-25917,2023-12-21,Baker,California,WE,Thursday,100.00,44.00,Eft,Clothing,T - Shirt,2,112.00,Low
+B-25909,2023-12-13,Chambers,California,WE,Wednesday,108.00,28.67,Credit Card,Electronics,Accessories,3,237.99,Low
+B-25909,2023-12-13,Chambers,California,WE,Wednesday,12.00,5.00,Cod,Clothing,Skirt,2,14.00,Low
+B-25909,2023-12-13,Chambers,California,WE,Wednesday,1622.00,690.00,Eft,Electronics,Phones,3,2796.00,High
+B-25909,2023-12-13,Chambers,California,WE,Wednesday,168.00,37.33,Credit Card,Clothing,Dress,3,392.01,Low
+B-25909,2023-12-13,Chambers,California,WE,Wednesday,323.00,40.20,Eft,Electronics,Phones,5,1414.00,Avg
+B-25953,2023-01-14,Peterson,Washington,WE,Saturday,116.00,94.00,Cod,Electronics,Accessories,1,22.00,Low
+B-25953,2023-01-14,Peterson,Washington,WE,Saturday,1218.00,96.22,Eft,Furniture,Bookcases,9,10096.02,High
+B-25953,2023-01-14,Peterson,Washington,WE,Saturday,188.00,190.50,Cod,Electronics,Electronic Games,2,-5.00,Loss
+B-25953,2023-01-14,Peterson,Washington,WE,Saturday,22.00,7.50,Cod,Clothing,Hat,4,58.00,Low
+B-25953,2023-01-14,Peterson,Washington,WE,Saturday,44.00,14.00,Credit Card,Clothing,Hat,3,90.00,Low
+B-25953,2023-01-14,Peterson,Washington,WE,Saturday,67.00,11.75,Eft,Clothing,T - Shirt,4,221.00,Low
+B-25953,2023-01-14,Peterson,Washington,WE,Saturday,744.00,104.17,Credit Card,Electronics,Printers,6,3838.98,High
+B-25953,2023-01-14,Peterson,Washington,WE,Saturday,81.00,13.33,Debit Card,Clothing,Scarf,3,203.01,Low
+B-25953,2023-01-14,Peterson,Washington,WE,Saturday,87.00,10.20,Cod,Clothing,Scarf,5,384.00,Low
+B-25960,2023-01-18,Smith,Washington,WE,Wednesday,171.00,155.50,Eft,Furniture,Bookcases,2,31.00,Low
+B-25700,2023-06-25,Hopkins,California,WE,Sunday,129.00,40.80,Debit Card,Clothing,Shirt,5,441.00,Low
+B-25700,2023-06-25,Hopkins,California,WE,Sunday,44.00,25.33,Debit Card,Clothing,Scarf,3,56.01,Low
+B-25700,2023-06-25,Hopkins,California,WE,Sunday,7.00,5.00,Credit Card,Clothing,Hat,2,4.00,Low
+B-25802,2023-10-05,Horton,California,WE,Thursday,13.00,11.00,Credit Card,Clothing,Skirt,2,4.00,Low
+B-25802,2023-10-05,Horton,California,WE,Thursday,23.00,26.00,Credit Card,Clothing,Shirt,1,-3.00,Loss
+B-25802,2023-10-05,Horton,California,WE,Thursday,25.00,6.40,Eft,Clothing,Dress,5,93.00,Low
+B-25802,2023-10-05,Horton,California,WE,Thursday,633.00,115.09,Eft,Electronics,Accessories,11,5697.01,High
+B-25802,2023-10-05,Horton,California,WE,Thursday,95.00,45.00,Credit Card,Clothing,Scarf,2,100.00,Low
+B-25869,2023-11-19,Mendez,Arizona,WE,Sunday,86.00,25.67,Credit Card,Clothing,Dress,3,180.99,Low
+B-25723,2023-07-18,Neal,California,WE,Tuesday,12.00,9.50,Eft,Clothing,Leggings,2,5.00,Low
+B-25723,2023-07-18,Neal,California,WE,Tuesday,16.00,14.00,Eft,Clothing,Scarf,2,4.00,Low
+B-25723,2023-07-18,Neal,California,WE,Tuesday,26.00,50.00,Credit Card,Clothing,Scarf,1,-24.00,Loss
+B-25723,2023-07-18,Neal,California,WE,Tuesday,76.00,43.33,Credit Card,Electronics,Electronic Games,3,98.01,Low
+B-25679,2023-06-04,Mason,California,WE,Sunday,76.00,126.00,Credit Card,Clothing,Dress,1,-50.00,Loss
+B-25890,2023-12-04,Schmidt,California,WE,Monday,465.00,28.67,Credit Card,Clothing,Dress,9,3926.97,High
+B-25617,2023-04-17,Green,Arizona,WE,Monday,305.00,115.00,Debit Card,Electronics,Electronic Games,5,950.00,Low
+B-25933,2023-01-04,Russell,California,WE,Wednesday,207.00,153.50,Eft,Clothing,Dress,2,107.00,Low
+B-25933,2023-01-04,Russell,California,WE,Wednesday,412.00,0.00,Credit Card,Clothing,Dress,6,2472.00,High
+B-25933,2023-01-04,Russell,California,WE,Wednesday,81.00,41.67,Credit Card,Clothing,Scarf,3,117.99,Low
+B-26090,2023-03-27,Green,Arizona,WE,Monday,80.00,19.33,Eft,Clothing,Scarf,3,182.01,Low
+B-26063,2023-03-15,Morris,Arizona,WE,Wednesday,241.00,79.50,Credit Card,Electronics,Electronic Games,4,646.00,Low
+B-25782,2023-09-15,Martinez,California,WE,Friday,335.00,51.00,Eft,Furniture,Chairs,7,1988.00,Avg
+B-25902,2023-12-10,Spencer,California,WE,Sunday,154.00,32.00,Credit Card,Electronics,Accessories,4,488.00,Low
+B-25902,2023-12-10,Spencer,California,WE,Sunday,1700.00,538.33,Credit Card,Clothing,Pants,3,3485.01,High
+B-25902,2023-12-10,Spencer,California,WE,Sunday,268.00,131.00,Eft,Furniture,Bookcases,2,274.00,Low
+B-25902,2023-12-10,Spencer,California,WE,Sunday,79.00,10.43,Credit Card,Clothing,Dress,7,479.99,Low
+B-25902,2023-12-10,Spencer,California,WE,Sunday,802.00,97.43,Credit Card,Electronics,Accessories,7,4931.99,High
+B-25602,2023-04-01,Hamilton,California,WE,Saturday,119.00,15.50,Cod,Clothing,Dress,8,828.00,Low
+B-25602,2023-04-01,Hamilton,California,WE,Saturday,168.00,139.50,Eft,Electronics,Phones,2,57.00,Low
+B-25602,2023-04-01,Hamilton,California,WE,Saturday,2617.00,366.50,Cod,Electronics,Phones,4,9002.00,High
+B-25602,2023-04-01,Hamilton,California,WE,Saturday,424.00,139.20,Credit Card,Electronics,Phones,5,1424.00,Avg
+B-25602,2023-04-01,Hamilton,California,WE,Saturday,561.00,116.33,Credit Card,Clothing,Dress,3,1334.01,Avg
+B-25811,2023-10-10,Watts,California,WE,Tuesday,126.00,18.50,Eft,Clothing,Hat,4,430.00,Low
+B-25736,2023-07-31,Hayes,California,WE,Monday,31.00,7.60,Eft,Clothing,Skirt,5,117.00,Low
+B-25800,2023-10-01,Tran,California,WE,Sunday,122.00,20.89,Credit Card,Electronics,Accessories,9,909.99,Low
+B-25800,2023-10-01,Tran,California,WE,Sunday,21.00,9.00,Credit Card,Clothing,Leggings,3,36.00,Low
+B-25800,2023-10-01,Tran,California,WE,Sunday,45.00,4.71,Eft,Clothing,Hat,7,282.03,Low
+B-25671,2023-05-27,Howard,Arizona,WE,Saturday,832.00,277.33,Eft,Clothing,Pants,3,1664.01,Avg
+B-25925,2023-12-29,Garcia,California,WE,Friday,1228.00,404.67,Eft,Furniture,Chairs,3,2469.99,High
+B-25925,2023-12-29,Garcia,California,WE,Friday,27.00,15.00,Debit Card,Clothing,Scarf,1,12.00,Low
+B-25925,2023-12-29,Garcia,California,WE,Friday,314.00,118.33,Cod,Electronics,Electronic Games,3,587.01,Low
+B-25796,2023-09-24,Craig,California,WE,Sunday,148.00,49.33,Credit Card,Clothing,Dress,3,296.01,Low
+B-25796,2023-09-24,Craig,California,WE,Sunday,239.00,80.20,Credit Card,Furniture,Chairs,5,794.00,Low
+B-25796,2023-09-24,Craig,California,WE,Sunday,28.00,27.00,Eft,Electronics,Accessories,1,1.00,Low
+B-25796,2023-09-24,Craig,California,WE,Sunday,37.00,43.00,Eft,Clothing,Dress,1,-6.00,Loss
+B-25796,2023-09-24,Craig,California,WE,Sunday,559.00,289.00,Debit Card,Clothing,Pants,2,540.00,Low
+B-25796,2023-09-24,Craig,California,WE,Sunday,632.00,158.00,Credit Card,Clothing,Dress,6,2844.00,High
+B-25796,2023-09-24,Craig,California,WE,Sunday,78.00,20.29,Eft,Clothing,Scarf,7,403.97,Low
+B-25949,2023-01-13,Curtis,California,WE,Friday,140.00,41.50,Debit Card,Clothing,Pants,2,197.00,Low
+B-25949,2023-01-13,Curtis,California,WE,Friday,151.00,47.33,Eft,Clothing,Hat,3,311.01,Low
+B-25949,2023-01-13,Curtis,California,WE,Friday,24.00,4.33,Credit Card,Clothing,Hat,3,59.01,Low
+B-25878,2023-11-24,Watkins,California,WE,Friday,140.00,25.00,Eft,Clothing,Scarf,5,575.00,Low
+B-25878,2023-11-24,Watkins,California,WE,Friday,165.00,39.67,Credit Card,Furniture,Furnishings,3,375.99,Low
+B-25878,2023-11-24,Watkins,California,WE,Friday,46.00,11.50,Credit Card,Clothing,Leggings,4,138.00,Low
+B-25878,2023-11-24,Watkins,California,WE,Friday,719.00,69.33,Credit Card,Furniture,Chairs,6,3898.02,High
+B-25878,2023-11-24,Watkins,California,WE,Friday,741.00,94.80,Credit Card,Furniture,Bookcases,5,3231.00,High
+B-25878,2023-11-24,Watkins,California,WE,Friday,84.00,14.33,Cod,Clothing,T - Shirt,3,209.01,Low
+B-25654,2023-05-10,Fowler,California,WE,Wednesday,105.00,29.50,Eft,Clothing,Scarf,2,151.00,Low
+B-25654,2023-05-10,Fowler,California,WE,Wednesday,121.00,46.00,Cod,Furniture,Furnishings,3,225.00,Low
+B-25654,2023-05-10,Fowler,California,WE,Wednesday,122.00,47.67,Eft,Furniture,Furnishings,3,222.99,Low
+B-25654,2023-05-10,Fowler,California,WE,Wednesday,229.00,126.00,Eft,Clothing,Dress,2,206.00,Low
+B-25654,2023-05-10,Fowler,California,WE,Wednesday,269.00,177.50,Eft,Electronics,Electronic Games,2,183.00,Low
+B-25654,2023-05-10,Fowler,California,WE,Wednesday,34.00,7.33,Cod,Clothing,Hat,3,80.01,Low
+B-25654,2023-05-10,Fowler,California,WE,Wednesday,450.00,180.00,Credit Card,Electronics,Printers,3,810.00,Low
+B-25654,2023-05-10,Fowler,California,WE,Wednesday,54.00,19.00,Credit Card,Clothing,Dress,3,105.00,Low
+B-26099,2023-03-30,Lee,California,WE,Thursday,207.00,42.50,Credit Card,Clothing,Hat,4,658.00,Low
+B-26099,2023-03-30,Lee,California,WE,Thursday,2366.00,362.80,Eft,Clothing,Pants,5,10016.00,High
+B-26099,2023-03-30,Lee,California,WE,Thursday,835.00,113.60,Debit Card,Electronics,Phones,5,3607.00,High
+B-26099,2023-03-30,Lee,California,WE,Thursday,9.00,6.00,Credit Card,Clothing,Skirt,1,3.00,Low
+B-25780,2023-09-13,Vega,Washington,WE,Wednesday,137.00,59.33,Debit Card,Electronics,Phones,3,233.01,Low
+B-25970,2023-01-22,Price,California,WE,Sunday,111.00,25.50,Credit Card,Clothing,Scarf,4,342.00,Low
+B-25970,2023-01-22,Price,California,WE,Sunday,203.00,59.50,Eft,Electronics,Printers,2,287.00,Low
+B-25970,2023-01-22,Price,California,WE,Sunday,365.00,86.00,Credit Card,Electronics,Phones,3,837.00,Low
+B-25970,2023-01-22,Price,California,WE,Sunday,742.00,272.00,Credit Card,Furniture,Bookcases,2,940.00,Low
+B-25764,2023-08-28,Brewer,California,WE,Monday,119.00,15.20,Credit Card,Clothing,T - Shirt,5,519.00,Low
+B-25764,2023-08-28,Brewer,California,WE,Monday,26.00,13.00,Credit Card,Clothing,Shirt,2,26.00,Low
+B-25764,2023-08-28,Brewer,California,WE,Monday,349.00,186.50,Debit Card,Clothing,Dress,2,325.00,Low
+B-25764,2023-08-28,Brewer,California,WE,Monday,765.00,459.00,Debit Card,Electronics,Phones,2,612.00,Low
+B-25702,2023-06-27,Santos,California,WE,Tuesday,306.00,151.00,Debit Card,Clothing,Dress,3,465.00,Low
+B-25702,2023-06-27,Santos,California,WE,Tuesday,31.00,8.50,Credit Card,Clothing,Dress,4,90.00,Low
+B-25702,2023-06-27,Santos,California,WE,Tuesday,424.00,49.00,Debit Card,Furniture,Chairs,9,3375.00,High
+B-25702,2023-06-27,Santos,California,WE,Tuesday,75.00,25.00,Eft,Clothing,Shirt,3,150.00,Low
+B-25702,2023-06-27,Santos,California,WE,Tuesday,941.00,246.00,Eft,Furniture,Tables,3,2085.00,High
+B-25707,2023-07-01,Gutierrez,California,WE,Saturday,8.00,14.00,Credit Card,Clothing,Scarf,1,-6.00,Loss
+B-25704,2023-06-29,Fields,California,WE,Thursday,102.00,34.00,Credit Card,Electronics,Phones,3,204.00,Low
+B-25704,2023-06-29,Fields,California,WE,Thursday,126.00,63.00,Eft,Electronics,Accessories,3,189.00,Low
+B-25618,2023-04-18,Sanchez,Washington,WE,Tuesday,12.00,6.00,Eft,Clothing,Hat,2,12.00,Low
+B-25618,2023-04-18,Sanchez,Washington,WE,Tuesday,362.00,235.00,Credit Card,Furniture,Bookcases,1,127.00,Low
+B-25942,2023-01-08,Parker,Washington,WE,Sunday,646.00,334.50,Cod,Electronics,Printers,2,623.00,Low
+B-25684,2023-06-09,May,California,WE,Friday,134.00,46.00,Credit Card,Furniture,Chairs,2,176.00,Low
+B-25650,2023-05-06,Stewart,California,WE,Saturday,211.00,158.00,Cod,Clothing,Dress,2,106.00,Low
+B-25650,2023-05-06,Stewart,California,WE,Saturday,238.00,109.00,Credit Card,Clothing,Dress,2,258.00,Low
+B-25650,2023-05-06,Stewart,California,WE,Saturday,245.00,161.50,Eft,Electronics,Printers,2,167.00,Low
+B-25650,2023-05-06,Stewart,California,WE,Saturday,269.00,52.67,Eft,Clothing,Pants,3,648.99,Low
+B-25650,2023-05-06,Stewart,California,WE,Saturday,28.00,27.00,Eft,Clothing,Scarf,2,2.00,Low
+B-25650,2023-05-06,Stewart,California,WE,Saturday,31.00,16.50,Cod,Clothing,Dress,2,29.00,Low
+B-25650,2023-05-06,Stewart,California,WE,Saturday,351.00,49.75,Credit Card,Electronics,Phones,8,2410.00,High
+B-25650,2023-05-06,Stewart,California,WE,Saturday,512.00,147.40,Credit Card,Clothing,Dress,5,1823.00,Avg
+B-25650,2023-05-06,Stewart,California,WE,Saturday,925.00,274.40,Credit Card,Electronics,Electronic Games,5,3253.00,High
+B-25962,2023-01-19,Cohen,California,WE,Thursday,260.00,96.00,Credit Card,Electronics,Printers,2,328.00,Low
+B-25962,2023-01-19,Cohen,California,WE,Thursday,312.00,250.00,Credit Card,Electronics,Electronic Games,1,62.00,Low
+B-25962,2023-01-19,Cohen,California,WE,Thursday,544.00,232.00,Credit Card,Furniture,Bookcases,3,936.00,Low
+B-25710,2023-07-05,Kelly,California,WE,Wednesday,10.00,11.00,Eft,Clothing,Leggings,1,-1.00,Loss
+B-25710,2023-07-05,Kelly,California,WE,Wednesday,13.00,21.00,Credit Card,Clothing,T - Shirt,1,-8.00,Loss
+B-25710,2023-07-05,Kelly,California,WE,Wednesday,216.00,42.33,Eft,Furniture,Furnishings,6,1042.02,Avg
+B-25710,2023-07-05,Kelly,California,WE,Wednesday,25.00,6.25,Eft,Clothing,Skirt,4,75.00,Low
+B-25710,2023-07-05,Kelly,California,WE,Wednesday,53.00,17.75,Eft,Clothing,T - Shirt,4,141.00,Low
+B-25710,2023-07-05,Kelly,California,WE,Wednesday,616.00,97.86,Debit Card,Furniture,Furnishings,7,3626.98,High
+B-25841,2023-11-01,Snyder,California,WE,Wednesday,22.00,5.50,Cod,Clothing,Skirt,2,33.00,Low
